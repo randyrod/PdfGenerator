@@ -1,0 +1,570 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List
+href="Contrato%20de%20trabajo%20por%20tiempo%20indefinido%20MTR.fld/filelist.xml">
+<link rel=dataStoreItem
+href="Contrato%20de%20trabajo%20por%20tiempo%20indefinido%20MTR.fld/item0001.xml"
+target="Contrato%20de%20trabajo%20por%20tiempo%20indefinido%20MTR.fld/props002.xml">
+<link rel=themeData
+href="Contrato%20de%20trabajo%20por%20tiempo%20indefinido%20MTR.fld/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Contrato%20de%20trabajo%20por%20tiempo%20indefinido%20MTR.fld/colorschememapping.xml">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:32771 0 0 0 1 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073697537 9 0 511 0;}
+@font-face
+	{font-family:"Liberation Serif";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Liberation Sans";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Microsoft YaHei";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 718224466 22 0 262175 0;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"\@Microsoft YaHei";
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 718224466 22 0 262175 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan no-line-numbers;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;
+	font-style:italic;}
+p.MsoList, li.MsoList, div.MsoList
+	{mso-style-unhide:no;
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:7.0pt;
+	margin-left:0cm;
+	line-height:120%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-unhide:no;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:7.0pt;
+	margin-left:0cm;
+	line-height:120%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+p.Ttulo1, li.Ttulo1, div.Ttulo1
+	{mso-style-name:Título1;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans",sans-serif;
+	mso-fareast-font-family:"Microsoft YaHei";
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+p.ndice, li.ndice, div.ndice
+	{mso-style-name:Índice;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan no-line-numbers;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Liberation Serif",serif;
+	mso-ascii-font-family:"Liberation Serif";
+	mso-fareast-font-family:SimSun;
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Mangal;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 2.0cm 2.0cm 2.0cm;
+	mso-header-margin:0cm;
+	mso-footer-margin:0cm;
+	mso-forms-protection:no;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Liberation Serif",serif;
+	mso-ansi-language:ES-DO;
+	mso-fareast-language:ZH-CN;
+	mso-bidi-language:HI;}
+</style>
+</head>
+
+<body lang=EN-GB style='tab-interval:35.45pt'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+text-autospace:ideograph-numeric'><b style='mso-bidi-font-weight:normal'><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>CONTRATO DE
+TRABAJO POR TIEMPO INDEFINIDO</span></b><span lang=ES-DO style='font-family:
+"Bookman Old Style",serif'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+mso-pagination:none;text-autospace:ideograph-numeric'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+mso-pagination:none;text-autospace:ideograph-numeric'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+mso-pagination:none;text-autospace:ideograph-numeric'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+mso-pagination:none;text-autospace:ideograph-numeric'><b style='mso-bidi-font-weight:
+normal'><span lang=PT-BR style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:PT-BR'>E N T R E,</span></b><span
+lang=PT-BR style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:
+"Bookman Old Style";mso-ansi-language:PT-BR'> de una parte, <b
+style='mso-bidi-font-weight:normal'>SR./SRA </b></span><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:
+"Bookman Old Style";mso-ansi-language:ES'>, </span></b><span lang=ES
+style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'>dominicano/a, mayor de edad, previsto de la<span
+style='mso-spacerun:yes'>  </span>cédula de identidad No. 001-1111111-1,
+domiciliado y residente en esta ciudad de Santo Domingo, Distrito Nacional,
+República Dominicana, actuando en calidad de presidente de la razón social <b
+style='mso-bidi-font-weight:normal'>CONSORCIO</b> <b style='mso-bidi-font-weight:
+normal'>AMIGOS,</b> sociedad comercial constituida, organizada y existente de
+conformidad con las leyes de la República Dominicana, debidamente matriculada
+ante el Registro Nacional de Contribuyentes (RNC) bajo el número <b
+style='mso-bidi-font-weight:normal'>130-00000-0, </b>con domicilio y asiento
+social en la </span><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:Arial;mso-ansi-language:ES'>Ave. 40 de Junio número 45,
+sector Alegre, Santo Domingo, Distrito Nacional, República Dominicana,</span><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> quien en lo adelante se denominara por su propio nombre
+o como <b style='mso-bidi-font-weight:normal'>EL EMPLEADOR</b> y, de la otra
+parte <b style='mso-bidi-font-weight:normal'>Jesús Mercedes Viola,</b>
+Dominicano/a, mayor de edad, portador de la cédula de identidad No.
+___________________________________________,<b style='mso-bidi-font-weight:
+normal'> </b>domiciliado y residente en la Calle _______________________, de
+esta ciudad de Santo Domingo, Distrito Nacional, República Dominicana, quien se
+denominara por su propio nombre o por el de <b style='mso-bidi-font-weight:
+normal'>EL TRABAJADOR</b>.- </span><span lang=ES-DO style='font-family:"Bookman Old Style",serif'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=ES
+style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>HAN CONVENIDO Y
+PACTADO LO SIGUIENTE:<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>PRIMERO:</span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> <b style='mso-bidi-font-weight:normal'>EL EMPLEADOR,</b>
+con la suscripción del presente acto, contrata los servicios de <b
+style='mso-bidi-font-weight:normal'>EL TRABAJADOR,</b> quien acepta de manera
+libre y voluntaria en calidad de <b style='mso-bidi-font-weight:normal'>_________________________
+</b>en la empresa <b style='mso-bidi-font-weight:normal'>__________________________________,
+</b>propiedad de <b style='mso-bidi-font-weight:normal'>EL EMPLEADOR,</b>
+ubicada en la Calle __________________________________, de esta ciudad de Santo
+Domingo, Distrito Nacional, República Dominicana,</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>PARRAFO:</span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> En virtud del poder de Dirección que tiene <b
+style='mso-bidi-font-weight:normal'>EL EMPLEADOR, </b>y del elemento de
+subordinación a que está sujeto <b style='mso-bidi-font-weight:normal'>EL
+TRABAJADOR,</b> este se compromete a realizar los trabajos de conformidad con
+los diseños, instrucciones y directrices dado por <b style='mso-bidi-font-weight:
+normal'>EL EMPLEADOR </b>o su representante para la ejecución de los trabajos
+encomendados.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES-DO><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>SEGUNDO: </span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'>Ambas partes acuerdan que el salario que devengará <b
+style='mso-bidi-font-weight:normal'>EL TRABAJADOR,</b> será la suma de <b
+style='mso-bidi-font-weight:normal'>______________________________________________,</b>
+por cada mes efectivamente trabajado.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>TERCERO:</span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> <b style='mso-bidi-font-weight:normal'>EL TRABAJADOR</b>
+deberá cumplir el horario de trabajo de 8:00 a.m. hasta la 5:00 p.m.,
+otorgándole <b style='mso-bidi-font-weight:normal'>EL EMPLEADOR </b>el horario
+de almuerzo establecido por el Código de Trabajo.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>CUARTO:</span></u></b><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'> EL TRABAJADOR,</span></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> durante su horario de trabajo, se compromete a cumplir
+las órdenes de su supervisor inmediato, así como a dedicarse a su trabajo con
+esmero y dedicación, siempre respectando lo derechos que establecen las normas
+laborales.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES-DO><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>QUINTO:</span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> Este contrato será por <b style='mso-bidi-font-weight:
+normal'>TIEMPO INDEFINIDO </b>a partir del<b style='mso-bidi-font-weight:normal'>
+_________ de __________________ del año dos mil __________________ (201____), </b>sin
+embargo, cualquiera de las partes puede dar por terminado el presente contrato,
+dando a la otra un aviso previo de conformidad con lo dispuesto en el artículo
+76 del Código de trabajo, y las demás causas de terminación del contrato
+prevista en el mismo Código.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>SEXTO:</span></u></b><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'> Para todo lo previsto en el presente contrato las partes
+se remiten al derecho común y a lo establecido por las leyes laborales.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>HECHO Y FIRMADO
+DE BUENA FE, </span></b><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>en Cuatro (4)
+originales, en la ciudad de Santo Domingo, Distrito Nacional, Capital de la
+República Dominicana, a los __________ (_______) días del mes de
+____________________ del año Dos mil ___________________ (201___).</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>_______________________________</span></u><span
+lang=ES style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><span
+style='mso-tab-count:4'>                                           </span><span
+style='mso-spacerun:yes'>   </span><u>__________________________</u></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+text-indent:36.0pt'><b style='mso-bidi-font-weight:normal'><span lang=ES
+style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'>EL EMPLEADOR <span style='mso-tab-count:6'>                                            </span>EL
+TRABAJADOR <o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'>Yo, <b style='mso-bidi-font-weight:normal'>________________________________________________,
+</b>Notario Público de los del Número del Distrito Nacional, Capital de la
+República Dominicana, Matricula No. ______________, <b style='mso-bidi-font-weight:
+normal'>CERTIFICO Y DOY FE</b>, que las firmas que anteceden fueron puestas en
+mi presencia por los señores<b style='mso-bidi-font-weight:normal'> </b></span><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:"Bookman Old Style";mso-ansi-language:ES'>____________________________________________________</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:Calibri;mso-ansi-language:ES'> (</span></b><span lang=ES
+style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'>Por<b style='mso-bidi-font-weight:normal'> </b>sí y en
+representación de la empresa </span><b style='mso-bidi-font-weight:normal'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'>______________________________________________)</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:Calibri;mso-ansi-language:ES'>, </span></b><span lang=ES
+style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'>quienes me manifestaron bajo la fe del juramento ser esta
+la firma que acostumbran a usar en todos los actos de su vida pública y privada
+por lo que debe dársele a la misma entera fe y crédito. En la ciudad de Santo
+Domingo, Distrito Nacional, Capital de la República Dominicana, </span><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:"Bookman Old Style";
+mso-ansi-language:ES'>a los __________ (_______) días del mes de
+____________________ del año Dos mil ___________________ (201___).</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:Calibri;
+mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><u><span lang=ES style='font-family:"Bookman Old Style",serif;
+mso-bidi-font-family:Calibri;position:relative;top:-3.5pt;mso-text-raise:3.5pt;
+mso-ansi-language:ES'>__________________________________________<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='font-family:"Bookman Old Style",serif;mso-bidi-font-family:
+Calibri;mso-ansi-language:ES'>Abogado Notario Público<o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>
